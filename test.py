@@ -1,7 +1,7 @@
 x = 3
 y = 4
 
-def addMe(x, y):
-    print(x + y)
+def addMe(a, b):
+    print(a - b)
 
 addMe(x,y)
